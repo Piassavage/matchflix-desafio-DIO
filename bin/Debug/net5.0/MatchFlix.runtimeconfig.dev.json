@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Piassavage\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Piassavage\\.nuget\\packages"
+    ]
+  }
+}

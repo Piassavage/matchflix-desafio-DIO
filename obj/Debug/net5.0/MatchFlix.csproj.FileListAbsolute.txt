@@ -1,0 +1,16 @@
+C:\Users\Piassavage\MatchFlix\obj\Debug\net5.0\MatchFlix.csproj.AssemblyReference.cache
+C:\Users\Piassavage\MatchFlix\obj\Debug\net5.0\MatchFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piassavage\MatchFlix\obj\Debug\net5.0\MatchFlix.AssemblyInfoInputs.cache
+C:\Users\Piassavage\MatchFlix\obj\Debug\net5.0\MatchFlix.AssemblyInfo.cs
+C:\Users\Piassavage\MatchFlix\obj\Debug\net5.0\MatchFlix.csproj.CoreCompileInputs.cache
+C:\Users\Piassavage\MatchFlix\bin\Debug\net5.0\MatchFlix.exe
+C:\Users\Piassavage\MatchFlix\bin\Debug\net5.0\MatchFlix.deps.json
+C:\Users\Piassavage\MatchFlix\bin\Debug\net5.0\MatchFlix.runtimeconfig.json
+C:\Users\Piassavage\MatchFlix\bin\Debug\net5.0\MatchFlix.runtimeconfig.dev.json
+C:\Users\Piassavage\MatchFlix\bin\Debug\net5.0\MatchFlix.dll
+C:\Users\Piassavage\MatchFlix\bin\Debug\net5.0\ref\MatchFlix.dll
+C:\Users\Piassavage\MatchFlix\bin\Debug\net5.0\MatchFlix.pdb
+C:\Users\Piassavage\MatchFlix\obj\Debug\net5.0\MatchFlix.dll
+C:\Users\Piassavage\MatchFlix\obj\Debug\net5.0\ref\MatchFlix.dll
+C:\Users\Piassavage\MatchFlix\obj\Debug\net5.0\MatchFlix.pdb
+C:\Users\Piassavage\MatchFlix\obj\Debug\net5.0\MatchFlix.genruntimeconfig.cache
